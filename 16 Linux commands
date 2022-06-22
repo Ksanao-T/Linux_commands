@@ -1,0 +1,16 @@
+ls #wyświetla zawartość katalogu
+pwd # pokazuje katalog, w którym się znajdujemy
+cd # poruszenie się pomiedzy katalogami
+cp #kopiowanie plików
+rm # usuwanie plików i katalogów
+mv #przeniesienie pliku lub zmiana jego nazwy
+mkdir #tworzenie katalogów
+chmod #zmiana uprawnień wobec plików np. tylko czytać, etc.
+sudo #pozawala uruchamiać programy jako inny uzytkownik (superuser).
+exit #zakończenie procesu
+echo #wpisywanie tekstu w konsoli
+whoami #wyswietlanie nazwy uzytkownika
+find # lokalizowanie plików wg zdefiniowanych przez użytkowników kryteriów
+wget #pobieranie plików z Internetu
+locate #lokalizowanie plików
+mv # przeniesienie plików lub katalogów do innego miejsca
